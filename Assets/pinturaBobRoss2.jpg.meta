@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 637a95f445c7b0545a8f409d5e37532a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1265926508051700683
+    second: pinturaBobRoss2_0
+  - first:
+      213: -5335891967781147296
+    second: pinturaBobRoss2_1
+  - first:
+      213: -1340491684356802657
+    second: pinturaBobRoss2_2
+  - first:
+      213: -2223037269214181052
+    second: pinturaBobRoss2_3
+  - first:
+      213: -6977225505256921199
+    second: pinturaBobRoss2_4
+  - first:
+      213: 321341733966663537
+    second: pinturaBobRoss2_5
+  - first:
+      213: 6040967221535939981
+    second: pinturaBobRoss2_6
+  - first:
+      213: -5018382256543265885
+    second: pinturaBobRoss2_7
+  - first:
+      213: 1336265252430263854
+    second: pinturaBobRoss2_8
+  - first:
+      213: 6419470994413810510
+    second: pinturaBobRoss2_9
+  - first:
+      213: -2252055308486036209
+    second: pinturaBobRoss2_10
+  - first:
+      213: 4890227816811268472
+    second: pinturaBobRoss2_11
+  - first:
+      213: 1257851198270471482
+    second: pinturaBobRoss2_12
+  - first:
+      213: -243991305582218880
+    second: pinturaBobRoss2_13
+  - first:
+      213: -8588595860439248803
+    second: pinturaBobRoss2_14
+  - first:
+      213: -2788251183361565463
+    second: pinturaBobRoss2_15
+  - first:
+      213: -3745042336898078945
+    second: pinturaBobRoss2_16
+  - first:
+      213: 3086392345799437163
+    second: pinturaBobRoss2_17
+  - first:
+      213: 8508814834167217992
+    second: pinturaBobRoss2_18
+  - first:
+      213: -7221932920194236696
+    second: pinturaBobRoss2_19
+  - first:
+      213: -8576121992531988149
+    second: pinturaBobRoss2_20
+  - first:
+      213: -361258927706546635
+    second: pinturaBobRoss2_21
+  - first:
+      213: 5634264693818645549
+    second: pinturaBobRoss2_22
+  - first:
+      213: -6792011389885323233
+    second: pinturaBobRoss2_23
+  - first:
+      213: -4812970623586963820
+    second: pinturaBobRoss2_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinturaBobRoss2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534e3df4c868e6ee0800000000000000
+      internalID: -1265926508051700683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1888.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d6b8ca68a13f5b0800000000000000
+      internalID: -5335891967781147296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1888.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973c815aed956de0800000000000000
+      internalID: -1340491684356802657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_3
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1888.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c80eb16f2621e0800000000000000
+      internalID: -2223037269214181052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_4
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1888.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ad51be5aeb2f90800000000000000
+      internalID: -6977225505256921199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f4790ca92a57400800000000000000
+      internalID: 321341733966663537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1416.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d9d6b7ea3d5d350800000000000000
+      internalID: 6040967221535939981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1416.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab8d9b1def1b5ab0800000000000000
+      internalID: -5018382256543265885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_8
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1416.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26bdc0da2e5b8210800000000000000
+      internalID: 1336265252430263854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1416.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4375fb8bda861950800000000000000
+      internalID: 6419470994413810510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05382bf0a71fb0e0800000000000000
+      internalID: -2252055308486036209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 944.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87905c33a449dd340800000000000000
+      internalID: 4890227816811268472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 944.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3df53d1009c47110800000000000000
+      internalID: 1257851198270471482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_13
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 944.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081fc76433b2d9cf0800000000000000
+      internalID: -243991305582218880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_14
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 944.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d02bb19d2fc880800000000000000
+      internalID: -8588595860439248803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecdb2f42542e49d0800000000000000
+      internalID: -2788251183361565463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 472.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17246036dfe60cc0800000000000000
+      internalID: -3745042336898078945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_17
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 472.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b2cd07c7115da20800000000000000
+      internalID: 3086392345799437163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_18
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 472.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f7c129202651670800000000000000
+      internalID: 8508814834167217992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_19
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 472.8
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee7f14c54a86cb90800000000000000
+      internalID: -7221932920194236696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.7999878
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4137bc6c7e7bf880800000000000000
+      internalID: -8576121992531988149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0.7999878
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53edc165bec8cfaf0800000000000000
+      internalID: -361258927706546635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_22
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0.7999878
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd59d23ede03e40800000000000000
+      internalID: 5634264693818645549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_23
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0.7999878
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f186a7360adedb1a0800000000000000
+      internalID: -6792011389885323233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinturaBobRoss2_24
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0.7999878
+        width: 576
+        height: 472.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e65b2d7b4e43db0800000000000000
+      internalID: -4812970623586963820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
