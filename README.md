@@ -14,5 +14,5 @@ Left-click mouse -> Select options
 
 #### At game
 
-Left-click mouse -> Pick and drop the pieces
+Left-click mouse -> Pick and drop the pieces <br>
 Rigt-click mouse while holding a piece -> Place the piece in the image
